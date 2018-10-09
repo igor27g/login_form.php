@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACD,gBAAgB,EAAE,qBAAqB;EACvC,mBAAmB,EAAE,MAAM;EAC3B,eAAe,EAAE,KAAK;EACtB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EAGjB,0BAA0B;IACtB,SAAK;MACD,gBAAgB,EAAE,2BAA2B",
+"sources": ["../sass/styleforloginread.scss"],
+"names": [],
+"file": "styleforloginread.css"
+}
